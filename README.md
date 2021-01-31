@@ -3,7 +3,7 @@
 ## Getting Started
 
 ### Demo
-[View Demo](https://ninjacodegen.github.io/ncg-crud-ngx-md/)
+[View Demo](https://odnodn.github.io/ncg-crud-ngx-md/)
 
 <div style="text-align: center;">
   <h4>Admin List View</h4>
